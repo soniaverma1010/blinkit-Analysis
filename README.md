@@ -1,6 +1,2 @@
-m;,
-.
-
-?
-
-?
+# Project Overview  
+This project was a dynamic dashboard created in Power BI for Blinkit, focusing on delivering key business insights through various visual elements. The dashboard showcased a variety of visualizations, including Donut charts, bar charts, cards, slicers, and matrices, to analyze and display critical metrics such as total sales amounting to $1.00M, average sales per item of $141, and an overall average rating of 3.9 across 7060 items. It provided a detailed breakdown of sales performance by item type, outlet size, and location, and highlighted the distinctions in product offerings like low-fat and regular items. Interactive components like filters enhanced user engagement by allowing more granular analysis of the data, such as outlet performance over time, sales by fat content, and visibility measures per outlet type and location. The dashboard served as a comprehensive tool for decision-making, emphasizing critical business KPIs and trends to support strategic planning and operational improvements.
