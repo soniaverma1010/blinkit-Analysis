@@ -12,24 +12,24 @@ This project was a dynamic dashboard created in Power BI for Blinkit, focusing o
    Line, Funnel, and Matrix).
 
 # Business Problem   
-   Product Performance:- Categories like Seafood and Breakfast have the lowest sales, with Seafood contributing only     $0.01M.  
-   Outlet Performance:- medium outlets contributing less sales ($248.99K).  
-   Location-Based Insights:- Low Performance in Tier 1  
-   Item Visibility: Supermarket Type2 outlets have low item visibility (0.06), which could lead to missed sales  
+   1. Product Performance:- Categories like Seafood and Breakfast have the lowest sales, with Seafood contributing only $0.01M.  
+   2 Outlet Performance:- medium outlets contributing less sales ($248.99K).  
+   3 Location-Based Insights:- Low Performance in Tier 1  
+   4 Item Visibility: Supermarket Type2 outlets have low item visibility (0.06), which could lead to missed sales  
    
 # Dashboard Overview  
-   Sales Performance      
+   # Sales Performance      
    •Total Sales: The company has achieved total sales of $1.00M. This is a significant milestone, indicating robust   
    market demand    
    •Average Sales:- The average sales per item stand at $141, suggesting that the products are priced relatively high 
    or are sold in large quantities.     
    
-   Product Performance    
+   # Product Performance    
    •Top-Selling Items: Fruits and Vegetables are the top contributors with $0.15M in sales, followed by Snack  
     Foods at $0.14M.    
    •Categories like Seafood and Breakfast have the lowest sales, with Seafood contributing only $0.01M.  
 
-Outlet Performance    
+# Outlet Performance    
 •Outlet Establishment:    
 Sales have fluctuated slightly over the years, with an initial jump from $78K to $130K, followed by minor variations, 
   stabilizing at around $131K in recent years.  
